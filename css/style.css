@@ -30,9 +30,9 @@ h1 {
 
 }
 
-.about {
+.about-heading {
     font-size: 4rem;
     color: green;
     font-family: sans-serif;
-    margin-top: 100px;
+    margin-top: 200px;
 }
